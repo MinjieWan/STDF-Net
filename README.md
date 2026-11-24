@@ -72,3 +72,17 @@ We provide trained models in the checkpoints/ directory:
 - TSIRMT → TSIRMT.pth
 
 Please load the corresponding model when testing on different datasets.
+
+
+## Publication
+```
+If you want to use this work, please consider citing the following paper.
+@article{ge2026stdf,
+  title={STDF-Net: Spatio-Temporal Decoupling and Frequency-Aware Fusion Network for Multi-Frame Infrared Small Target Detection},
+  author={Ge, Pengqiang and Gu, Guohua and Qian, Weixian and Kong, Xiaofang and Chen, Qian and Wan, Minjie},
+  journal={IEEE Transactions on Geoscience and Remote Sensing},
+  year={2026},
+  publisher={IEEE}
+}
+```
+
